@@ -20,7 +20,7 @@ const Filters = () => {
     setFilters((prevState) => ({ ...prevState, category: value }));
   };
   return (
-    <section className="flex w-full justify-between gap-3">
+    <section className="flex w-full items-center justify-between gap-3">
       <div className="flex items-center justify-center gap-x-3">
         <label htmlFor={priceId}>Price</label>
         <input
