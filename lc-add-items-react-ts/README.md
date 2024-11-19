@@ -18,7 +18,7 @@ Requisitos: Tener instalado Nodejs (v16.x.x o superior). Tener instalado npm.
 - [] Dar importancia a la funcionalidad y usabilidad, más que al diseño visual.
 - [] El código debe ser enteramente desarrollado en Typescript.
 
-![IMAGEN DE PRUEBA](/public/ejemplo.png)
+![imagen de prueba](/public/ejemplo.png)
 
 - TODO personal
   - usar useReducer() []
